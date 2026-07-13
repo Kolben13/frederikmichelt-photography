@@ -10,14 +10,14 @@
       text: "Diese Website verwendet optionale Analyse-Technologien von Google. Google Analytics wird erst geladen, wenn du zustimmst. Deine Entscheidung kannst du jederzeit in der Datenschutzerklärung ändern.",
       privacy: "Datenschutzerklärung",
       reject: "Ablehnen",
-      accept: "Analyse akzeptieren"
+      accept: "Akzeptieren"
     },
     en: {
       title: "Privacy settings",
       text: "This website uses optional analytics technologies from Google. Google Analytics is loaded only after you consent. You can change your choice at any time in the privacy policy.",
       privacy: "Privacy policy",
       reject: "Reject",
-      accept: "Accept analytics"
+      accept: "Accept"
     }
   };
 
